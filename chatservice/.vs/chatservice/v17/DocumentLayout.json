@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\context\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:context\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\chat\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:chat\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\context\\rediscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:context\\rediscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\chat\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:chat\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|d:\\code\\microservices\\microservice-chat-app\\chatservice\\connectionuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F8B1F-906F-41B2-A18F-973269C42A1F}|chatservice.csproj|solutionrelative:connectionuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T23:38:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:19:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:32:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatHistory.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Chat\\ChatHistory.cs",
+              "RelativeDocumentMoniker": "Chat\\ChatHistory.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Chat\\ChatHistory.cs",
+              "RelativeToolTip": "Chat\\ChatHistory.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:37:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-08T17:47:24.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatContext.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Context\\ChatContext.cs",
+              "RelativeDocumentMoniker": "Context\\ChatContext.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Context\\ChatContext.cs",
+              "RelativeToolTip": "Context\\ChatContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:55:15.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:22:57.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Middlewares\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\JwtMiddleware.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Middlewares\\JwtMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\JwtMiddleware.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:23:55.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvykAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:44:57.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Users\\User.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Users\\User.cs",
+              "RelativeToolTip": "Users\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:52:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedisContext.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Context\\RedisContext.cs",
+              "RelativeDocumentMoniker": "Context\\RedisContext.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Context\\RedisContext.cs",
+              "RelativeToolTip": "Context\\RedisContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:55:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Chat\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Chat\\ChatMessage.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\Chat\\ChatMessage.cs",
+              "RelativeToolTip": "Chat\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:20:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionUserService.cs",
+              "DocumentMoniker": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\ConnectionUserService.cs",
+              "RelativeDocumentMoniker": "ConnectionUserService.cs",
+              "ToolTip": "D:\\Code\\Microservices\\Microservice-chat-app\\chatservice\\ConnectionUserService.cs",
+              "RelativeToolTip": "ConnectionUserService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:47:57.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
